@@ -1,0 +1,336 @@
+
+Abaddon
+Lord of Avernus
+
+Alchemist
+Razzil Darkbrew
+
+Ancient Apparition
+Kaldr
+
+Anti-Mage
+Magina
+
+Arc Warden
+Zet
+
+Axe
+Mogul Khan
+
+Bane
+Atropos
+
+Batrider
+Jin'zakk
+
+Beastmaster
+Karroch
+
+Bloodseeker
+Strygwyr
+
+Bounty Hunter
+Gondar
+
+Brewmaster
+Mangix
+
+Bristleback
+Rigwarl
+
+Broodmother
+Black Arachnia
+
+Centaur Warrunner
+Bradwarden
+
+Chaos Knight
+Nessaj
+
+Chen
+Holy Knight
+
+Clinkz
+Bone Fletcher
+
+Clockwerk
+Rattletrap
+
+Crystal Maiden
+Rylai
+
+Dark Seer
+Ish'kafel
+
+Dazzle
+Shadow Priest
+
+Death Prophet
+Krobelus
+
+Disruptor
+Stormcaller
+
+Doom
+Lucifer
+
+Dragon Knight
+Knight Davion
+
+Drow Ranger
+Traxex
+
+Earth Spirit
+Kaolin
+
+Earthshaker
+Raigor Stonehoof
+
+Elder Titan
+Worldsmith
+
+Ember Spirit
+Xin
+
+Enchantress
+Aiushtha
+
+Enigma
+Darchrow
+
+Faceless Void
+Darkterror
+
+Gyrocopter
+Aurel Vlaicu
+
+Huskar
+Sacred Warrior
+
+Invoker
+Carl
+
+Io
+Wisp
+
+Jakiro
+Twin Head Dragon
+
+Juggernaut
+Yurnero
+
+Keeper of the Light
+Ezalor
+
+Kunkka
+Admiral
+
+Legion Commander
+Tresdin
+
+Leshrac
+Tormented Soul
+
+Lich
+Ethreain
+
+Lifestealer
+N'aix
+
+Lina
+Slayer
+
+Lion
+Demon Witch
+
+Lone Druid
+Sylla
+
+Luna
+Moon Rider
+
+Lycan
+Banehallow
+
+Magnus
+Magnoceros
+
+Medusa
+Gorgon
+
+Meepo
+Geomancer
+
+Mirana
+Princess of the Moon
+
+Morphling
+Morphling
+
+Naga Siren
+Slithice
+
+Nature's Prophet
+Furion
+
+Necrophos
+Rotund'jere
+
+Night Stalker
+Balanar
+
+Nyx Assassin
+Anub'arak
+
+Ogre Magi
+Aggron Stonebreak
+
+Omniknight
+Purist Thunderwrath
+
+Oracle
+Nerif
+
+Outworld Devourer
+Harbinger
+
+Phantom Assassin
+Mortred
+
+Phantom Lancer
+Azwraith
+
+Phoenix
+Icarus
+
+Pit Lord
+Azgalor
+
+Puck
+Faerie Dragon
+
+Pudge
+Butcher
+
+Pugna
+Oblivion
+
+Queen of Pain
+Akasha
+
+Razor
+Lightning Revenant
+
+Riki
+Stealth Assassin
+
+Rubick
+Grand Magus
+
+Sand King
+Crixalis
+
+Shadow Demon
+Eredar
+
+Shadow Fiend
+Nevermore
+
+Shadow Shaman
+Rhasta
+
+Silencer
+Nortrom
+
+Skywrath Mage
+Dragonus
+
+Slardar
+Slithereen Guard
+
+Slark
+Nightcrawler
+
+Sniper
+Kardel Sharpeye
+
+Spectre
+Mercurial
+
+Spirit Breaker
+Barathrum
+
+Storm Spirit
+Raijin Thunderkeg
+
+Sven
+Rogue Knight
+
+Techies
+Squee Spleen and Spoon
+
+Templar Assassin
+Lanaya
+
+Terrorblade
+The Demon Marauder
+
+Tidehunter
+Leviathan
+
+Timbersaw
+Rizzrak
+
+Tinker
+Boush
+
+Tiny
+Stone Giant
+
+Treant Protector
+Rooftrellen
+
+Troll Warlord
+Jah'rakal
+
+Tusk
+Ymir
+
+Undying
+Dirge
+
+Ursa
+Ulfsaar the Ursa Warrior
+
+Vengeful Spirit
+Shendelzare
+
+Venomancer
+Lesale Deathbringer
+
+Viper
+Netherdrake
+
+Visage
+Necro'lic
+
+Warlock
+Demnok Lannik
+
+Weaver
+Skitskurr
+
+Windranger
+Lyralei
+
+Winter Wyvern
+Auroth
+
+Witch Doctor
+Zharvakko
+
+Wraith King
+Ostarion
+
+Zeus
+Lord of Olympus
